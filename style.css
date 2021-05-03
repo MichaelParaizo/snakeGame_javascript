@@ -1,0 +1,17 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url('img/snacke\ game.jpg');
+    background-size:100px;
+    background-position: top right;
+}
+
+h1{
+    font-family: 'Orbitron', sans-serif;
+    color: black;
+    background-color: white;
+}
